@@ -2,7 +2,7 @@ Privacy Policy
 
 Introduction
 
-Our privacy policy will help you understand what information we collect how the app "ΛΕΞΗ" uses it, and what choices you have. We built the "ΛΕΞΗ" app as a free app. This SERVICE is provided at no cost and is intended for use as is. If you choose to use our Service, then you agree to the collection and use of information in relation with this policy. We don't collect Personal Informations. We will not use or share your information with anyone except as described in this Privacy Policy.
+Our privacy policy will help you understand what information we collect how the app "Wordell" uses it, and what choices you have. We built the "Wordell" app as a free app. This SERVICE is provided at no cost and is intended for use as is. If you choose to use our Service, then you agree to the collection and use of information in relation with this policy. We don't collect Personal Informations. We will not use or share your information with anyone except as described in this Privacy Policy.
 
 We will never require you to provide us with certain personally identifiable informations. 
 
