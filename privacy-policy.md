@@ -18,6 +18,8 @@ Device Information
 
 We dont collect information from your device. 
 
+You can ask anytime to delete your data from game's database.
+
 
 Children’s Privacy
 
