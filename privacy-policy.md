@@ -2,8 +2,15 @@ Privacy Policy
 
 Introduction
 
-Our privacy policy will help you understand what information we collect how the app "Wordell" uses it, and what choices you have. We built the "Wordell" app as a free app. This SERVICE is provided at no cost and is intended for use as is. If you choose to use our Service, then you agree to the collection and use of information in relation with this policy. We don't collect Personal Informations. We will not use or share your information with anyone except as described in this Privacy Policy.
+Our privacy policy will help you understand what information we collect how the app "Wordell" uses it, and what choices you have. We built the "Wordell" app as a free app. This SERVICE is provided at no cost and is intended for use as is. If you choose to use our Service, then you agree to the collection and use of information in relation with this policy. 
 
+Personal Informations
+
+For user experience and only if you choose to connect via a connection method the game provides, we collect your email address, your google account informations(email address, profile url etc) and the nickname you set.
+We also collect your game data such as your points, your helps, your coins etc.
+If you choose not to connect via a connection method, no informations are collected.
+All these informations are used only for game purposes.
+We will not use or share your information with anyone except as described in this Privacy Policy.
 We will never require you to provide us with certain personally identifiable informations. 
 
 Cookies are files with small amount of data that is commonly used an anonymous unique identifier. These are sent to your browser from the website that you visit and are stored on your devices’s internal memory.
